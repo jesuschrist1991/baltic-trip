@@ -1,31 +1,34 @@
-# Łódź Fabryczna – Warszawa Centralna
-> **10.08.2024**
->**05:51 - 07:18** – PKP Intercity – **75 zł**
+# Łódź – Modlin Airport
+> **15.08.2024**
 
-# Warsaw Central – Modlin Airport
-> **10.08.2024**
-> **08:05 - 09:06** – Koleje Mazowieckie – **64 zł**
+## Łódź Widzew - Warszawa Zachodnia
+> **12:30 - 13:46** – PKP Intercity – <!-- **75 zł** -->
+
+## Warszawa Zachodnia - Modlin Airport
+> **13:59 - 14:46** – Koleje Mazowieckie – **64 zł**
 
 # Modlin Airport – Riga Airport
-> **10.08.2024**
-> **11:00 - 13:15 (+1)** – Ryanair – **630 zł**
+> **15.08.2024**
+> **16:50 - 19:05 (+1)** – Ryanair – **1134 zł**
 
 <hr>
 
 # Riga - Tallinn
-> **12.08.2024**
-> **10:00 - 14:30** – Flixbus – **175 zł**
+> **18.08.2024**
+
+> **11:00 - 15:20** – Flixbus – **153 zł**  
+> **16:00 - 20:25** – Flixbus – **147 zł**
 
 # Tallinn - Narva - Tallinn
-> **14.08.2024**
+> **21.08.2024**
 ## Tallinn - Narva
-> **11:09 - 13:37** - Elron - **€37, 160 zł (season ticket??)**
+> **11:09 - 13:37** - Elron - **€37, 160 zł**
 
 ## Narva - Tallinn
-> **19:30 - 21:58** - Elron - **€37, 160 zł (season ticket??)**
+> **19:30 - 21:58** - Elron - **€37, 160 zł**
 
-# Tallinn - Vilnius
-> **15.08.2024**
+# Tallinn - Vilnius (Kaunas??)
+> **22.08.2024**
 ## Tallinn - Riga
 > **08:35 - 13:00** – Flixbus – **225 zł**
 
@@ -35,7 +38,7 @@
 <hr>
 
 # Vilnius - Łódź
-> **18.08.2024**
+> **25.08.2024**
 ## Vilnius - Warsaw East
 > **12:30 - 20:01 (-1)** – PKP Intercity – **€75, 325 zł**
 
@@ -43,4 +46,4 @@
 > **20:54 - 22:32** – PKP Intercity – **120 zł**
 
 # Total price
-> **2000 zł ± 335 zł**
+<!-- > **2000 zł ± 335 zł** -->
