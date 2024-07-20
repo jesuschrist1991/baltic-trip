@@ -1,5 +1,7 @@
+
 ## Riga
 > **15-18.08, 3 nights**
+
 ### Hotels:
 * Bella Riga Hotel:
     * Price: **980 zł**
@@ -10,6 +12,7 @@
 
 ## Tallinn
 > **18-22.08, 4 nights**
+
 ### Hotels:
 * Three Crowns Residence
     * Price: **1551 zł**

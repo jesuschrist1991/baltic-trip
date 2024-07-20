@@ -26,8 +26,12 @@
 
 # Tallinn - 19-21.08.2024
 
+<hr>
+
 ## <span style="color:green"> Tallinn - Narva - Tallinn </span>
 > **21.08.2024**
+
+
 ### <span style="color:green"> Tallinn - Narva </span>
 > **11:09 - 13:37** - Elron - **€37, 160 zł**
 
@@ -44,6 +48,7 @@
 
 ## <span style="color:cyan"> Tallinn - Vilnius (Kaunas??) </span>
 > **22.08.2024**
+
 ### <span style="color:cyan"> Tallinn - Riga </span>
 > **08:35 - 13:00** – Flixbus – **225 zł**
 

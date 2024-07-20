@@ -1,5 +1,8 @@
+
 # Attractions
-## Riga 
+
+## Riga
+
 #### Day 1 - 15.08.2024
 - arrival (19:05 + transfer from airport)
 
@@ -14,7 +17,9 @@
 -
 
 ## Estonia
+
 ### Tallinn
+
 #### Day 1 - 18.08.2024
 - arrival (16:20)
 
@@ -29,12 +34,14 @@
 - **Tallinn TV Tower** *(€36, 155 zł)*
 
 ### Narva
+
 #### Day 1 - 21.08.2024
 - **Narva Castle** *(€38, €30 if family ticket (165 zł, 130 zł))*
 -
 -
 
 ## Vilnius
+
 ### Day 1 - 22.08.2024
 - arrival (19:51)
 
