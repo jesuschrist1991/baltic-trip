@@ -5,16 +5,18 @@
 
 #### Day 1 - 15.08.2024
 - arrival (19:05 + transfer from airport)
+- Visit of Central Market of Riga
 
 #### Day 2 - 16.08.2024 
-- **Old town**
+- **House of the Blacckheads**
 - **Bastejkalna park, freedom monument**
 - **St Peter's Church Tower** *(€27, 115 zł)*
+- **Alexander-Newski-Kirche**
+- - **Old town**  
 
 #### Day 3 - 17.08.2024 
 - **KGB Building** *(€45, 192 zł)*
-- 
--
+- **Riga Radio and TV tower**
 
 ## Estonia
 
